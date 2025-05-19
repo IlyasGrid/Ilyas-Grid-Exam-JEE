@@ -1,7 +1,7 @@
 package enset.ilyasgrid.exambackend.web;
 
 import enset.ilyasgrid.exambackend.dtos.RemboursementDTO;
-import enset.ilyasgrid.exambackend.entities.TypeRemboursement;
+import enset.ilyasgrid.exambackend.enums.TypeRemboursement;
 import enset.ilyasgrid.exambackend.services.RemboursementService;
 import lombok.AllArgsConstructor;
 import org.springframework.format.annotation.DateTimeFormat;

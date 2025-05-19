@@ -1,7 +1,7 @@
 package enset.ilyasgrid.exambackend.repositories;
 
 import enset.ilyasgrid.exambackend.entities.Credit;
-import enset.ilyasgrid.exambackend.entities.StatutCredit;
+import enset.ilyasgrid.exambackend.enums.StatutCredit;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 import java.math.BigDecimal;

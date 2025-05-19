@@ -1,7 +1,7 @@
 package enset.ilyasgrid.exambackend.repositories;
 
 import enset.ilyasgrid.exambackend.entities.Remboursement;
-import enset.ilyasgrid.exambackend.entities.TypeRemboursement;
+import enset.ilyasgrid.exambackend.enums.TypeRemboursement;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 import java.util.Date;

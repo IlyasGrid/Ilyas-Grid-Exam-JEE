@@ -1,5 +1,6 @@
 package enset.ilyasgrid.exambackend.entities;
 
+import enset.ilyasgrid.exambackend.enums.TypeRemboursement;
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;
 import lombok.Data;

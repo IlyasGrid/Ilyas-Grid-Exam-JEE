@@ -1,6 +1,6 @@
 package enset.ilyasgrid.exambackend.dtos;
 
-import enset.ilyasgrid.exambackend.entities.TypeRemboursement;
+import enset.ilyasgrid.exambackend.enums.TypeRemboursement;
 import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;

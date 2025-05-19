@@ -1,5 +1,6 @@
 package enset.ilyasgrid.exambackend.entities;
 
+import enset.ilyasgrid.exambackend.enums.TypeBien;
 import jakarta.persistence.Entity;
 import jakarta.persistence.EnumType;
 import jakarta.persistence.Enumerated;

@@ -1,6 +1,9 @@
 package enset.ilyasgrid.exambackend;
 
 import enset.ilyasgrid.exambackend.entities.*;
+import enset.ilyasgrid.exambackend.enums.StatutCredit;
+import enset.ilyasgrid.exambackend.enums.TypeBien;
+import enset.ilyasgrid.exambackend.enums.TypeRemboursement;
 import enset.ilyasgrid.exambackend.repositories.*;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;

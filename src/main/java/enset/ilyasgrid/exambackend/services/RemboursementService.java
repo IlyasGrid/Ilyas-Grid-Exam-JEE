@@ -1,7 +1,7 @@
 package enset.ilyasgrid.exambackend.services;
 
 import enset.ilyasgrid.exambackend.dtos.RemboursementDTO;
-import enset.ilyasgrid.exambackend.entities.TypeRemboursement;
+import enset.ilyasgrid.exambackend.enums.TypeRemboursement;
 import java.util.Date;
 import java.util.List;
 

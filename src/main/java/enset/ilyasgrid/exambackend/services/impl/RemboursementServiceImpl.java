@@ -3,7 +3,7 @@ package enset.ilyasgrid.exambackend.services.impl;
 import enset.ilyasgrid.exambackend.dtos.RemboursementDTO;
 import enset.ilyasgrid.exambackend.entities.Credit;
 import enset.ilyasgrid.exambackend.entities.Remboursement;
-import enset.ilyasgrid.exambackend.entities.TypeRemboursement;
+import enset.ilyasgrid.exambackend.enums.TypeRemboursement;
 import enset.ilyasgrid.exambackend.mappers.CreditMapper;
 import enset.ilyasgrid.exambackend.repositories.CreditRepository;
 import enset.ilyasgrid.exambackend.repositories.RemboursementRepository;

@@ -1,6 +1,6 @@
 package enset.ilyasgrid.exambackend.dtos;
 
-import enset.ilyasgrid.exambackend.entities.StatutCredit;
+import enset.ilyasgrid.exambackend.enums.StatutCredit;
 import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;

@@ -1,7 +1,7 @@
 package enset.ilyasgrid.exambackend.repositories;
 
 import enset.ilyasgrid.exambackend.entities.CreditImmobilier;
-import enset.ilyasgrid.exambackend.entities.TypeBien;
+import enset.ilyasgrid.exambackend.enums.TypeBien;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 import java.util.List;

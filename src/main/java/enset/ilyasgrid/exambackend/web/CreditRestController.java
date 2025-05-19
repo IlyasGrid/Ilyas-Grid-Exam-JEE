@@ -1,7 +1,7 @@
 package enset.ilyasgrid.exambackend.web;
 
 import enset.ilyasgrid.exambackend.dtos.*;
-import enset.ilyasgrid.exambackend.entities.StatutCredit;
+import enset.ilyasgrid.exambackend.enums.StatutCredit;
 import enset.ilyasgrid.exambackend.services.CreditService;
 import lombok.AllArgsConstructor;
 import org.springframework.http.HttpStatus;

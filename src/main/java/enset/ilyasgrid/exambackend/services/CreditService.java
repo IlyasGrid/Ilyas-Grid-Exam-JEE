@@ -1,7 +1,7 @@
 package enset.ilyasgrid.exambackend.services;
 
 import enset.ilyasgrid.exambackend.dtos.*;
-import enset.ilyasgrid.exambackend.entities.StatutCredit;
+import enset.ilyasgrid.exambackend.enums.StatutCredit;
 import java.util.List;
 
 public interface CreditService {
