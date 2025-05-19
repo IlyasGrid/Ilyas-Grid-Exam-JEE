@@ -7,5 +7,5 @@ import java.util.List;
 
 public interface CreditProfessionnelRepository extends JpaRepository<CreditProfessionnel, Long> {
     // Find credits by company name
-//    List<CreditProfessionnel> findByRaisonSocialeContainingIgnoreCase(String raisonSociale);
+    List<CreditProfessionnel> findByRaisonSocialeContainingIgnoreCase(String raisonSociale);
 }

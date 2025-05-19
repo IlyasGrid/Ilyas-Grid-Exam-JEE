@@ -7,5 +7,5 @@ import java.util.List;
 
 public interface CreditPersonnelRepository extends JpaRepository<CreditPersonnel, Long> {
     // Find credits by motif containing the given string
-//    List<CreditPersonnel> findByMotifContaining(String motif);
+    List<CreditPersonnel> findByMotifContaining(String motif);
 }
